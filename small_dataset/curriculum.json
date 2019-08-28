@@ -1,0 +1,6 @@
+[
+	{
+		"train": "/data/text_recognition/samples/gt_word.csv",
+		"validation": "/data/text_recognition/samples/gt_word.csv"
+	}
+]
